@@ -1,0 +1,21 @@
+
+00:52 17.09.2022, функция file_path с аргументами ('logger.txt',) {}
+ вернула C:\Users\Lenovo\PycharmProjects\Decorators\logger.txt
+00:52 17.09.2022, функция div с аргументами (2, 3) {}
+ вернула 0.7
+00:53 17.09.2022, функция FlatIterator с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) {}
+ вернула <__main__.FlatIterator object at 0x000001ECC77528E0>
+00:53 17.09.2022, функция FlatIterator с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) {}
+ вернула <__main__.FlatIterator object at 0x000001ECC7742EB0>
+00:53 17.09.2022, функция flat_generator с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) {}
+ вернула <generator object flat_generator at 0x000001ECC77660B0>
+00:53 17.09.2022, функция DeepIterator с аргументами ([['a', 'b', ['g', 'k', 3, 4], 'c'], [[False, None, 6, 'l', ['m', 'o']], 'd', 'e', 'f', 'h', False], [1, 2, None]],) {}
+ вернула <__main__.DeepIterator object at 0x000001ECC7742EB0>
+00:53 17.09.2022, функция DeepIterator с аргументами ([['a', 'b', ['g', 'k', 3, 4], 'c'], [[False, None, 6, 'l', ['m', 'o']], 'd', 'e', 'f', 'h', False], [1, 2, None]],) {}
+ вернула <__main__.DeepIterator object at 0x000001ECC77447F0>
+00:53 17.09.2022, функция deep_generator с аргументами ([['a', 'b', ['g', 'k', 3, 4], 'c'], [[False, None, 6, 'l', ['m', 'o']], 'd', 'e', 'f', 'h', False], [1, 2, None]],) {}
+ вернула <generator object deep_generator at 0x000001ECC77660B0>
+00:53 17.09.2022, функция flat_generator с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) {}
+ вернула <generator object flat_generator at 0x000001ECC77660B0>
+00:53 17.09.2022, функция deep_generator с аргументами ([['a', 'b', ['g', 'k', 3, 4], 'c'], [[False, None, 6, 'l', ['m', 'o']], 'd', 'e', 'f', 'h', False], [1, 2, None]],) {}
+ вернула <generator object deep_generator at 0x000001ECC77660B0>
